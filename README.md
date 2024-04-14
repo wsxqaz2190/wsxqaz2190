@@ -1,6 +1,6 @@
 ### Hello 👋
  my name is *Seokhyun Lee*, and I live in South Korea.<br> 
- Currently, I am attending [Kyung Hee University](https://www.khu.ac.kr/kor/user/main/view.do), majoring in Software Convergence.
+ Currently, I am studying in [Kyung Hee University](https://www.khu.ac.kr/kor/user/main/view.do), majoring in Software Convergence.
  <br>
  <br>
  
